@@ -1,0 +1,726 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ans",
+				"answer"
+			],
+			[
+				"cli",
+				"client_id"
+			],
+			[
+				"form",
+				"form	Tag"
+			],
+			[
+				"attr",
+				"attrr	Ruby attr_reader"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"arr",
+				"arr"
+			],
+			[
+				"crit",
+				"criterion"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"zone",
+				"zone_id"
+			],
+			[
+				"a",
+				"affiliateId"
+			],
+			[
+				"ox",
+				"ox_data_summary_ad_hourly"
+			],
+			[
+				"re",
+				"requested_impressions"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"head",
+				"headerImg"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"hea",
+				"headerImg"
+			],
+			[
+				"main",
+				"mainWrapper"
+			],
+			[
+				"mra",
+				"mraid"
+			],
+			[
+				"exp",
+				"expandAd"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"full",
+				"fullscreenAd"
+			],
+			[
+				"get",
+				"getState"
+			],
+			[
+				"list",
+				"listingPageAd"
+			],
+			[
+				"mrai",
+				"mraidReady"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"tex",
+				"text-top"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"lang",
+				"lang-php"
+			],
+			[
+				"co",
+				"code	<code>"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"S",
+				"sans-serif"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 301.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sft",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"inste",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"Ruby",
+				"BeautifyRuby"
+			],
+			[
+				"term",
+				"Terminal: Open in project folder"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sq",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"beauti",
+				"BeautifyRuby"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"prett",
+				"Pretty Ruby: Format"
+			],
+			[
+				"beaut",
+				"BeautifyRuby"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls",
+			"bundle",
+			"which rubocop",
+			"clear",
+			"Pretty Ruby: Format pretty_ruby_format",
+			"pretty_ruby_format",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Library/WebServer/Documents/adServer"
+	],
+	"file_history":
+	[
+		"/Library/WebServer/Documents/adServer/public/index.php",
+		"/Users/arun/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1469168261/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_voting_2/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1469168368/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_voting_1/index.php",
+		"/Library/WebServer/Documents/ark/app/controllers/sftp-config.json",
+		"/Library/WebServer/Documents/ark/app/views/gothras/index.json.jbuilder",
+		"/Library/WebServer/Documents/ark/app/assets/javascripts/home.coffee",
+		"/Library/WebServer/Documents/ark/app/assets/javascripts/gothras.coffee",
+		"/Library/WebServer/Documents/ark/app/assets/javascripts/bloodgroups.coffee",
+		"/Users/arun/Desktop/cadbury.html",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1469004087/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_voting_3/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1469004071/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_voting_2/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1469004060/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_voting_1/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1469004050/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_classic_2/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1469004029/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_classic_1/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1469004019/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_Caramello_2/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1469003998/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_Caramello_1/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1469003986/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_Bubbly_2/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1469003954/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_Bubbly_1/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1469004040/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_classic_1/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1469004010/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_Caramello_1/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1468842529/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_Bubbly_2/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1468840032/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_voting_3/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1468840018/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_voting_2/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1468840008/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_voting_1/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1468839996/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_classic_2/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1468839980/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_classic_1/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1468839965/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_Caramello_2/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1468839943/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_Caramello_1/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1468839781/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_Bubbly_1/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1468843176/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/voice_of_user_2/index.php",
+		"/var/folders/mt/03kr8mb94198w37tj96kk36r0000gp/T/sublime-sftp-browse-1468839898/Ads1/home/httpd/htdocs/openx/ads/newshuntercompetition/contest_html/Cadbury_Bubbly_2/index.php",
+		"/Users/arun/Library/Application Support/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/Users/arun/Desktop/versaTag.html",
+		"/Users/arun/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/Ads1",
+		"/Library/WebServer/Documents/dummy/app/controllers/machines_controller.rb",
+		"/Library/WebServer/Documents/dummy/app/views/users/index.html.erb",
+		"/Library/WebServer/Documents/dummy/config/routes.rb",
+		"/Library/WebServer/Documents/dummy/app/assets/stylesheets/application.scss",
+		"/Library/WebServer/Documents/dummy/app/views/users/_user.html.erb",
+		"/Library/WebServer/Documents/dummy/app/views/layouts/application.html.erb",
+		"/Library/WebServer/Documents/dummy/app/policies/user_policy.rb",
+		"/Library/WebServer/Documents/dummy/app/views/users/show.html.erb",
+		"/Library/WebServer/Documents/dummy/app/controllers/users_controller.rb",
+		"/Library/WebServer/Documents/dummy/app/controllers/application_controller.rb",
+		"/Library/WebServer/Documents/dummy/app/models/user.rb",
+		"/Library/WebServer/Documents/dummy/app/views/users/sessions/new.html.erb",
+		"/Library/WebServer/Documents/dummy/Gemfile",
+		"/Library/WebServer/Documents/dummy/app/views/welcome/index.html.erb",
+		"/Library/WebServer/Documents/dummy/app/controllers/welcome_controller.rb",
+		"/Library/WebServer/Documents/dummy/app/policies/application_policy.rb",
+		"/Library/WebServer/Documents/dummy/config/environments/development.rb",
+		"/Library/WebServer/Documents/dummy/app/assets/stylesheets/addresses.scss",
+		"/Library/WebServer/Documents/dummy/db/migrate/20160617142821_add_role_to_users.rb",
+		"/Library/WebServer/Documents/dummy/app/assets/stylesheets/application.css",
+		"/Users/arun/Library/Application Support/Sublime Text 3/Packages/BeautifyRuby/Default (OSX).sublime-keymap",
+		"/Users/arun/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/arun/Library/Application Support/Sublime Text 3/Packages/BeautifyRuby/BeautifyRuby.sublime-settings",
+		"/Users/arun/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Library/WebServer/Documents/dummy/app/views/simple_calendar/_month_calendar.html.erb",
+		"/Library/WebServer/Documents/dummy/db/migrate/20160616222705_add_columns_to_users.rb",
+		"/Library/WebServer/Documents/dummy/config/environment.rb",
+		"/Library/WebServer/Documents/dummy/config/application.rb",
+		"/Library/WebServer/Documents/blog/app/Http/routes.php",
+		"/Users/arun/Downloads/Work/downloads/NoImageThankYouMsg.template.php",
+		"/Library/WebServer/Documents/openx_checkouts/openx_mpe/openx/DB_Changes/ox_ad_segment_summary.sql",
+		"/Library/WebServer/Documents/openx_checkouts/openx_mpe/openx/DB_Changes/ox_segment_details.sql",
+		"/Library/WebServer/Documents/test.php",
+		"/Users/arun/Documents/adunit.csv",
+		"/Users/arun/Downloads/Work/htmlBanners/arunAdSense.html",
+		"/Users/arun/Documents/MPE_New_changes.txt",
+		"/Users/arun/Downloads/Work/Docs/analyticsCrons.sql",
+		"/Library/WebServer/Documents/openx_arun/ads/newshuntercompetition/contest_html/Arun_contest_template_Contest/index.php",
+		"/Users/arun/Downloads/Work/htmlBanners/samsungVDO/index.html",
+		"/Users/arun/Downloads/Work/downloads/polls/untitled.html",
+		"/Users/arun/Downloads/Work/downloads/polls/Polls.html",
+		"/Users/arun/Desktop/a.html",
+		"/Users/arun/Downloads/Misc/untitled.html",
+		"/Library/WebServer/Documents/openx_upkar/openx/www/admin/nativeAds/createNativeAd.php",
+		"/Users/arun/Downloads/Work/htdocs/openx/www/admin/nativeAds/createNativeAd.php",
+		"/Users/arun/Downloads/Work/tasks/openxDiff20151121/openx/www/admin/nativeAds/nativeAds/createNativeAd.php",
+		"/Library/WebServer/Documents/cricketScore.html",
+		"/Applications/mysql/share/fill_help_tables.sql",
+		"/Users/arun/Documents/Onyx",
+		"/Library/WebServer/Documents/openx/analytics_scripts/maintenance-eterno/impressionsPerBanner.php",
+		"/Users/arun/Desktop/arun.html",
+		"/Users/arun/Desktop/arun_ad.html",
+		"/Users/arun/Downloads/Softwares/arunPlugin/www/templatetest.html",
+		"/Users/arun/Downloads/Work/tasks/maintenanceAnalysis/aggregate_functions.list",
+		"/Users/arun/Downloads/Softwares/arunPlugin/www/tmp_schema.json",
+		"/Users/arun/Downloads/Work/htmlBanners/isl.html",
+		"/Users/arun/Downloads/something.html",
+		"/Users/arun/Downloads/Work/issues/contractCampaignAnalysis/chartjsTest.html",
+		"/Users/arun/Downloads/Work/issues/contractCampaignAnalysis/maintenanceDetailedLog",
+		"/Users/arun/Downloads/Work/htmlBanners/contentExpando/index.html",
+		"/Users/arun/Downloads/Work/htmlBanners/contentExpando/style.css",
+		"/Users/arun/Downloads/Work/htmlBanners/contentExpando/custom.js",
+		"/Users/arun/Downloads/documentation/Maintenance/css/application-2ac58be704fef592dcfa8a14124e2688.css",
+		"/Users/arun/Downloads/documentation/Maintenance/css/styles.css",
+		"/Users/arun/Downloads/documentation/Maintenance/css/prettify.css",
+		"/Users/arun/Downloads/documentation/Maintenance/css/sons-of-obsidian.css",
+		"/Users/arun/Downloads/documentation/Maintenance/css/lang-php.js",
+		"/Users/arun/Downloads/documentation/Maintenance/css/run_prettify.js",
+		"/Users/arun/Downloads/documentation/Maintenance/gittest.html",
+		"/Users/arun/Downloads/Work/issues/malicious1.10/accesslog.txt",
+		"/Users/arun/Downloads/tasks/contractCampaignIssue/campaignPriorities_20151029",
+		"/Users/arun/Downloads/tasks/contractCampaignIssue/dosAndDonts",
+		"/Users/arun/Downloads/documentation/Maintenance/setUpdateRequirements.task.html",
+		"/Users/arun/Downloads/documentation/Maintenance/overview.html",
+		"/Users/arun/Downloads/contractCampaignAnalysis/oversubscribed.txt",
+		"/Users/arun/Downloads/tasks/contractCampaignIssue/campaignPriorities_20151028",
+		"/Users/arun/Downloads/tasks/contractCampaignIssue/Notes",
+		"/Users/arun/Downloads/Work/downloads/biharElection 2/index.html",
+		"/Volumes/Seagate Backup Plus Drive/officeLaptopBackup/Documents/ads/arun/workspace/Downloads/url schemes (mraid open & hyperlink)/test_scripts/ad.js",
+		"/Users/arun/Downloads/Work/burpProxy/burp1",
+		"/Users/arun/Downloads/Work/downloads/2a47fb6043b90c2f3d023a6c9b56960f/index.html",
+		"/Users/arun/Downloads/Work/htmlBanners/897cc0554e6d6f9f4f17e6d0a913475b/index.html",
+		"/Users/arun/Downloads/Work/htmlBanners/videoDemo/index.html",
+		"/Users/arun/Downloads/Work/htmlBanners/tagtest.html",
+		"/Users/arun/Downloads/Work/downloads/Daddy/index.html",
+		"/Users/arun/Downloads/Work/plans/attributionMaintenance.txt",
+		"/Users/arun/Downloads/Work/notes/TagsDiscrepancyCall",
+		"/Users/arun/Downloads/Work/notes/misc",
+		"/Library/WebServer/Documents/adbanners/waptest/waptest.html",
+		"/Library/WebServer/Documents/adbanners/fairnlovely/index.html",
+		"/Users/arun/Downloads/Work/htmlBanners/waptest.html",
+		"/Library/WebServer/Documents/adbanners/video/index.html",
+		"/Users/arun/Desktop/mkt"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"belongs_to",
+			"trackerUrl === 'undefined'",
+			".answer active",
+			"if(trackerUrl != \"\") {",
+			"$(\".answerWrapper\").html($(data).find(\".answers\").html())\n		$(\".submitWrapper\").remove();\n		window.parent.window.postMessage(bannerId,\"*\");",
+			"data: {clientid: $('.clientid').val(), contestname: $('.contestname').val(), ansArray: JSON.stringify(ansArray)},",
+			"storeToDB.php",
+			"generateRequest(\"+trackerUrl+\")",
+			"generateRequest(trackerUrl)",
+			"		\n",
+			">",
+			">\n",
+			"ctrl+shift_f",
+			"mysql2",
+			"`",
+			":",
+			"           ",
+			"                ",
+			"\\r\\n",
+			"ox",
+			"|",
+			"\\ns",
+			"	\n",
+			"'",
+			"\\n",
+			"      ",
+			"\\n",
+			"|",
+			"date",
+			"#55ACEE",
+			"\\\"",
+			"\\r\\n",
+			"\\\"",
+			"\\t",
+			"\\r\\n",
+			" \n",
+			"StatsDate.php",
+			"         * ",
+			"zone IN ('Premium', 'Card-P1', 'Storypage')",
+			"Sri",
+			"{$GLOBALS['_MAX']['CONF'][Context::DB_MASTER]['name']}.",
+			"\"",
+			":",
+			"'",
+			":",
+			"|",
+			" ",
+			"+",
+			"        ",
+			"|",
+			"/home",
+			"\\n",
+			"/home",
+			"\\n",
+			"192",
+			"body",
+			"keyword",
+			"PR.",
+			"php",
+			"</pre></code>",
+			"<code><pre>",
+			" ",
+			"\\n",
+			" ",
+			"      ",
+			"|",
+			"953",
+			"4713",
+			"\\n",
+			"\\| ",
+			"']",
+			"\\n",
+			"192",
+			"\\n",
+			" "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"trackerUrl !== 'undefined'",
+			".answer.active",
+			"if(typeof trackerUrl === 'undefined' && trackerUrl != \"\") {",
+			"$('#parentDiv').html(data);",
+			"data: {clientid: $('.clientid').val(), storeToDB: 'true', validateForm: 'false', contestname: $('.contestname').val(), ansArray: encodeURI(JSON.stringify(ansArray)), msg:'<center><h2>Thank you'},",
+			"play.php",
+			"generateRequest(trackerUrl)",
+			"generateRequest(\"+trackerUrl+\")",
+			"",
+			" ",
+			"",
+			" s",
+			"`",
+			",",
+			";\n",
+			";\ndrop table ",
+			"",
+			"#4caf79",
+			"\"",
+			"\n",
+			"\"",
+			" \"",
+			" ",
+			"\n",
+			"",
+			"Shri",
+			"",
+			"'",
+			"\"",
+			"",
+			"scpads /home",
+			" /var/backup/code_backup/bookcorousel_20151202/ \\n",
+			" /var/backup/code_backup/bookcorousel_20151202/",
+			" cp /home",
+			" ",
+			"newshunt.webdoc@192",
+			"V.",
+			"</code></pre>",
+			"<pre><code>",
+			"",
+			"; ",
+			"\\ndrop table ",
+			"",
+			"|\\n",
+			"|192",
+			" ",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "laraAdServer.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"application.sc",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"appli",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"application",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"develo",
+				"config/environments/development.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"index",
+				"app/views/users/index.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1003.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
